@@ -1,5 +1,5 @@
 
-# 🐍 Introduction to Python Programming TX00FL42-3001 📐
+# 🐍 Introduction to Python Programming 📐
 
 ---
 
