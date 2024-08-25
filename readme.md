@@ -60,8 +60,9 @@ To pass:
 - You must take two exams and score at least **50%** of the maximum points on each.
 - You must complete at least **50%** of the exercises.
 
-Each module’s tasks are worth a total of **6 points**.  
+Each module’s tasks are worth a total of **6 points**. 
 The point value of each task is calculated by dividing the **6 points** by the number of tasks.
+
 ---
 
 ### Let’s Get Started! 🚀
