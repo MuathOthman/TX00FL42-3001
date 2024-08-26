@@ -22,6 +22,9 @@ Here’s what we’ll be covering:
 7. **Exception Handling** 🛑
 8. **Data Structures & Slicing** 🧩
 9. **Object-Oriented Programming** 🏗
+10. **Association** 🤝
+11. **Inheritance** 🧬
+12. **APIs** 🌐
 
 Each topic is carefully designed to build on the previous one, ensuring you gain a solid foundation in Python. 🏆
 
@@ -51,6 +54,14 @@ We use a scale from 0 to 5 to evaluate your progress:
 ## ✅ Assessment: Approved/Failed
 
 To pass this course, you’ll need to demonstrate that you understand the basic logic of Python and can write simple scripts. 🚦
+
+**📝 Exams 80%, 📚 Homework 20%**  
+To pass:
+- You must take two exams and score at least **50%** of the maximum points on each.
+- You must complete at least **50%** of the exercises.
+
+Each module’s tasks are worth a total of **6 points**. 
+The point value of each task is calculated by dividing the **6 points** by the number of tasks.
 
 ---
 
