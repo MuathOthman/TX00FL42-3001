@@ -16,15 +16,16 @@ Here’s what we’ll be covering:
 1. **Introduction to Python Language** 🐍
 2. **Basics of Python** 🧠
 3. **Control Structures: If-Elif-Else** 🛤
-4. **Loops** 🔄
-5. **Working with Files in Python** 📁
-6. **Functions & Modules** 🛠
-7. **Exception Handling** 🛑
-8. **Data Structures & Slicing** 🧩
-9. **Object-Oriented Programming** 🏗
-10. **Association** 🤝
-11. **Inheritance** 🧬
-12. **APIs** 🌐
+4. **While Loop** 🔄
+5. **List & For loop** 📜🔁
+6. **Data Structures** 🧩
+7. **Working with Files in Python** 📁
+8. **Functions & Modules** 🛠
+9. **Exception Handling** 🛑
+10. **Object-Oriented Programming** 🏗
+11. **Association** 🤝
+12. **Inheritance** 🧬
+13. **APIs** 🌐
 
 Each topic is carefully designed to build on the previous one, ensuring you gain a solid foundation in Python. 🏆
 
