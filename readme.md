@@ -58,7 +58,7 @@ To pass this course, you’ll need to demonstrate that you understand the basic 
 
 **📝 Exams 80%, 📚 Homework 20%**  
 To pass:
-- You must take two exams and score at least **50%** of the maximum points on each.
+- You must take two exams and score at least **40%** of the maximum points on each.
 - You must complete at least **50%** of the exercises.
 
 Each module’s tasks are worth a total of **6 points**. 
