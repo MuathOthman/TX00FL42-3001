@@ -7,8 +7,8 @@ class Car:
 
     def displayDetails(self):
         print(f"Registration Number: {self.registration_number}")
-        print(f"Maximum Speed: {self.maximum_speed} km/h")
-        print(f"Current Speed: {self.current_speed} km/h")
+        #print(f"Maximum Speed: {self.maximum_speed} km/h")
+        #print(f"Current Speed: {self.current_speed} km/h")
         print(f"Travelled Distance: {self.travelled_distance} km")
         print()
 
