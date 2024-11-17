@@ -13,19 +13,19 @@ By the end of this course, you'll have the ability to write and maintain Python 
 
 Here’s what we’ll be covering:
 
-1. **Introduction to Python Language** 🐍
-2. **Basics of Python** 🧠
-3. **Control Structures: If-Elif-Else** 🛤
-4. **While Loop** 🔄
-5. **List & For loop** 📜🔁
-6. **Data Structures** 🧩
-7. **Working with Files in Python** 📁
-8. **Functions & Modules** 🛠
-9. **Exception Handling** 🛑
-10. **Object-Oriented Programming** 🏗
-11. **Association** 🤝
-12. **Inheritance** 🧬
-13. **APIs** 🌐
+1. **Introduction to Python Language** 🐍  
+2. **Basics of Python** 🧠  
+3. **Control Structures: If-Elif-Else** 🛤  
+4. **While Loop** 🔄  
+5. **List & For Loop** 📜🔁  
+6. **Data Structures** 🧩  
+7. **Functions & Modules** 🛠  
+8. **Object-Oriented Programming** 🏗  
+9. **Association** 🤝  
+10. **Inheritance** 🧬  
+11. **Using External Interfaces** 🌐  
+12. **Setting Up a Backend Service with an Interface** 🔧💻  
+13. **Working with Files in Python** 📁  
 
 Each topic is carefully designed to build on the previous one, ensuring you gain a solid foundation in Python. 🏆
 
